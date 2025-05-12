@@ -1,7 +1,1 @@
-version: "3.8"
 
-services:
-  web :
-    images: "syedkhaleel4u/notes-app:latest"
-    ports :
-      - "8000:8000"
